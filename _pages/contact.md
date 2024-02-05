@@ -60,7 +60,7 @@ Therefore, if you want to receive updates also about new versions and other news
 
 ## About us
 
-pandapipes is a development by the Grid Planning and Grid Operation Division at the Fraunhofer Institute for Energy Economics and Energy System Technology (IEE), Kassel. Major contributions were made by the research group Energy Management and Power System Operation, University of Kassel. Tanja Kneiske is continuing the coordination of pandapipes at the Fraunhofer Research Institution for Energy Infrastructures and Geothermal Systems (IEG), Cottbus.
+pandapipes is a development by the Grid Planning and Grid Operation Division at the Fraunhofer Institute for Energy Economics and Energy System Technology (IEE), Kassel. Major contributions were made by the research group Energy Management and Power System Operation, University of Kassel. Tanja Kneiske is continuing to support the development of pandapipes at the Fraunhofer Research Institution for Energy Infrastructures and Geothermal Systems (IEG) in Cottbus and as chair of the department "Technology and Management Integrated Energy Infrastructures (TMIE)" at the TU Berlin.
 
 
 [<img src="{{ site.url }}{{ site.baseurl }}/images/contact/Logo_Fraunhofer_IEE.png" alt="Fraunhofer Institute for Energy Economics and Energy System Technology" width="50%">](https://www.iee.fraunhofer.de/en.html)
