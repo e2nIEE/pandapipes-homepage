@@ -40,7 +40,7 @@ developers:
     affiliation: "Fraunhofer IEG/TU Berlin"
     nickname: Tanja
     email: tanja.kneiske@ieg.fraunhofer.de
-    image: "/images/contact/Kneiske.jpg"
+    image: "/images/contact/Tanja2023.jpg"
     text: "is the initiator of the pandapipes project and brought the idea to life through her team. She is now the coordinator of the pandapipes development."
 ---
 <p></p>
