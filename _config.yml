@@ -14,7 +14,7 @@ defaults:
      
 author:
   name    : "pandapipes"
-#  avatar   : "/images/pp.svg"
+#  avatar   : "/images/pandapipes_color.svg"
   bio      : "An easy to use open source tool for fluid system modeling, analysis and optimization with a high degree of automation. "
   location : Kassel, Germany
 #  email    : info@pandapipes.org
