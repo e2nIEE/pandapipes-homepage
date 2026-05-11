@@ -133,7 +133,7 @@ sink = pp.create_sink(net, junction=j3, mdot_kg_per_s=0.045, name="Sink")
 
 #create branch elements
 pipe = pp.create_pipe_from_parameters(net, from_junction=j1, to_junction=j2, length_km=0.1, diameter_m=0.05, name="Pipe")
-valve = pp.create_valve(net, from_junction=j2, to_junction=j3, diameter_m=0.05, opened=True, name="Valve")
+valve = pp.create_valve(net, junction=j2, element=j3, et="ju", diameter_m=0.05, opened=True, name="Valve")
 ```
 
 
